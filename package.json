@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.2"
+  },
+  "name": "friendcode",
+  "version": "1.0.0",
+  "description": "pokemon go bot to track everyones code names",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "marlow leon",
+  "license": "ISC",
+  "keywords": []
+}
